@@ -21,7 +21,7 @@
   "homepage": "https://github.com/IoTKETI/msw_webrtc_kea#readme",
   "dependencies": {
     "mqtt": "^4.3.7",
-    "nanoid": "^4.0.0",
+    "nanoid": "^3.1.30",
     "shortid": "^2.2.16"
   }
 }
