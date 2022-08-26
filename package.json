@@ -1,0 +1,27 @@
+{
+  "name": "msw_webrtc_kea",
+  "version": "1.0.0",
+  "description": "This repository was developed using WebRTC and a video capture board to stream video from the drone.\r In addition, it runs on a Raspberry Pi-based mission computer called KEA.\r ***",
+  "main": "msw_webrtc_kea.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IoTKETI/msw_webrtc_kea.git"
+  },
+  "author": "IoTKETI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IoTKETI/msw_webrtc_kea/issues"
+  },
+  "homepage": "https://github.com/IoTKETI/msw_webrtc_kea#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "nanoid": "^4.0.0",
+    "shortid": "^2.2.16"
+  }
+}
